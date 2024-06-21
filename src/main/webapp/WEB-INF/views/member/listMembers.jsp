@@ -12,7 +12,7 @@
 <html>
 <head>
 <meta charset=UTF-8">
-<title>회원 정보 출력창</title>
+<title>회원 정보 출력창1</title>
 </head>
 <body>
 <table border="1"  align="center"  width="80%">
